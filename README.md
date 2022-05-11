@@ -28,7 +28,7 @@ The checklist and more helpful blog posts are also [available on our website](ht
 ## Contributing
 
 Please open an issue or email info@draft.dev to suggest changes to this checklist.
-
+ 
 
 ## License
 
